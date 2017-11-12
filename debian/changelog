@@ -1,0 +1,50 @@
+xentascreenfetch (3.6.9) arok; urgency=medium
+
+  * Memperbaharui berkas debian/control dan debian/copyright
+  * Menambahkan Distro Xenta OS
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Sun, 12 Nov 2017 20:16:05 +0700 
+
+screenfetch (3.6.5-1) unstable; urgency=medium
+
+  * New upstream release 
+
+ -- Hideki Yamane <henrich@debian.org>  Sat, 25 Oct 2014 21:15:04 +0900
+
+screenfetch (3.6.2-1) unstable; urgency=medium
+
+  * New upstream release 
+
+ -- Hideki Yamane <henrich@debian.org>  Wed, 20 Aug 2014 00:06:15 +0900
+
+screenfetch (3.6.0-1) unstable; urgency=medium
+
+  * New upstream release 
+
+ -- Hideki Yamane <henrich@debian.org>  Thu, 31 Jul 2014 23:05:45 +0900
+
+screenfetch (3.5.0-3) unstable; urgency=medium
+
+  * debian/control
+    - fix Vcs-browser field
+    - add "Recommends: scrot" to support getting screenshot with "-s" option
+      Thanks to HIGUCHI Daisuke (VDR dai) <dai@debian.org>
+
+ -- Hideki Yamane <henrich@debian.org>  Thu, 03 Jul 2014 22:15:06 +0900
+
+screenfetch (3.5.0-2) unstable; urgency=medium
+
+  * debian/control
+    - drop help2man since upstream provides manpage
+  * debian/rules
+    - clean up to drop help2man related lines
+
+ -- Hideki Yamane <henrich@debian.org>  Wed, 02 Jul 2014 20:13:40 +0900
+
+screenfetch (3.5.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #750008)
+  * debian/rules
+    - once disable help2man convert, it outputs broken roff file.
+
+ -- Hideki Yamane <henrich@debian.org>  Sat, 31 May 2014 23:09:00 +0900

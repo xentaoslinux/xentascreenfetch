@@ -1,0 +1,15 @@
+Source: xentascreenfetch
+Section: utils
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/xentascreenfetch
+Vcs-Browser: https://github.com/xentaos/xentascreenfetch.git
+
+Package: xentascreenfetch
+Architecture: all
+Depends: ${misc:Depends}
+Description: Paket Screeshot CLI Untuk Xenta OS.
+ Frok dari screenfetch dan di patch ditambahkan Logo
+ Xenta OS.
