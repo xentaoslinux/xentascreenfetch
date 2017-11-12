@@ -1,10 +1,10 @@
 #!/usr/bin/make -f
 #export DH_VERBOSE=1
 
-PKGNAME=screenfetch
+PKGNAME=xentascreenfetch
 
 %:
 	dh $@ 
 
 override_dh_auto_install:
-	install -m 0755 $(CURDIR)/screenfetch-dev $(CURDIR)/debian/$(PKGNAME)/usr/bin/screenfetch
+	install -m 0755 $(CURDIR)/xentascreenfetch $(CURDIR)/debian/$(PKGNAME)/usr/bin/xentascreenfetch
