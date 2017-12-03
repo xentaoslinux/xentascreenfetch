@@ -7,5 +7,5 @@ debian/files
 debian/debhelper-build-stamp
 
 # Directory Paket
-debian/xentacreenfetch
+debian/xentascreenfetch
 #gitpush
