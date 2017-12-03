@@ -1,3 +1,9 @@
+xentascreenfetch (3.7.0) arok; urgency=medium
+
+  * Memperbahaui Man Pages
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Mon, 04 Dec 2017 01:55:01 +0700 
+
 xentascreenfetch (3.6.9) arok; urgency=medium
 
   * Memperbaharui berkas debian/control dan debian/copyright

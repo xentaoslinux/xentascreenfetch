@@ -1,0 +1,11 @@
+Package: xentascreenfetch
+Version: 3.7.0
+Architecture: all
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Installed-Size: 243
+Section: utils
+Priority: optional
+Homepage: https://github.com/xentaos/xentascreenfetch
+Description: Paket Screeshot CLI Untuk Xenta OS.
+ Frok dari screenfetch dan di patch ditambahkan Logo
+ Xenta OS.
