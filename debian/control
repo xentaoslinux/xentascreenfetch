@@ -1,11 +1,11 @@
 Source: xentascreenfetch
 Section: utils
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xentascreenfetch
-Vcs-Browser: https://github.com/xentaos/xentascreenfetch.git
+Homepage: https://github.com/xentaoslinux/xentascreenfetch
+Vcs-Browser: https://github.com/xentaoslinux/xentascreenfetch.git
 
 Package: xentascreenfetch
 Architecture: all

@@ -1,3 +1,15 @@
+xentascreenfetch (3.7.2) batik; urgency=medium
+
+  * Perbaikan Berkas Paket .deb di folder debian
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 10:02:58 +0700
+
+xentascreenfetch (3.7.1) batik; urgency=medium
+
+  * Perbaikan Berkas Paket .deb di folder debian
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 10:00:58 +0700
+
 xentascreenfetch (3.7.0) arok; urgency=medium
 
   * Memperbahaui Man Pages
