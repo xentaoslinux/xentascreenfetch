@@ -1,3 +1,9 @@
+xentascreenfetch (3.7.3+xentaos2) batik; urgency=medium
+
+  * Pengepakan paket buat rilis "batik" stable
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Wed, 06 Mar 2019 11:21:06 +0700 
+
 xentascreenfetch (3.7.2) batik; urgency=medium
 
   * Perbaikan Berkas Paket .deb di folder debian
